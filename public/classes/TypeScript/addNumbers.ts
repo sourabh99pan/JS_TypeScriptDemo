@@ -7,4 +7,7 @@ var sum:number = getSumNum(5,6);
 
 console.log("Sum of two numbers: "+sum)
 
+var add:number = getSumNum(51,6);
+
+console.log("Sum of two numbers: "+add)
 
