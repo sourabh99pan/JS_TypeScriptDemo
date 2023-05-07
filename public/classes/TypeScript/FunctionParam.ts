@@ -21,6 +21,8 @@ console.log(Greet1("welcome","john"));//welcome  john
 
 console.log(Greet1("welcome")); //welcome  undefined
 
+console.log(Greet1("welcome again"));
+
 //console.log(Greet1("Welcome","john","David"));
 
 //Default Parameter
